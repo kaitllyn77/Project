@@ -1,0 +1,33 @@
+img {
+    Width : 250px ;
+}
+body {
+    background-color:#b3f0ff;
+}
+.title {
+    color:#ffffff;
+}
+.titles {
+    color:#ffffff;
+    font-family:'Pacifico', cursive;
+}
+.text { 
+    font-family:'Chango', cursive;
+    font-size: 17px;
+    color:#90EE90;
+}
+.texts {
+      font-family:'Cormorant Unicase', serif;
+}
+.sub {
+    color: #F5F5DC;
+    font-family:'Cormorant Unicase', serif;
+    font-size: 20px;
+    font-weight: bold;  
+}
+.sub1 {
+    color: #F5F5DC;
+    font-family:'Cormorant Unicase', serif;
+    font-size: 20px;
+    font-weight: bold;  
+}
